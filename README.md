@@ -8,7 +8,7 @@ Recent projects
 
 | [Fhellow] | [Instagramme] | [Rock Paper Scissors] |
 |:--------------|:--------------|:--------------|
-| Fhellow is a social networking site for freelancers. This was my final Makers Academy project completed with three other team members. <br> [View Fhellow on Heroku] | Designed to replicate the website Instagram, this project demonstrates my learning of Ruby on Rails, Bootstrap, Devise and Paperclip. <br> [View Instagramme on Heroku] | Created as make an online version of the game Rock, Paper, Scissors, Lizard, Spock (popularised by the show Big Bang Theory), this app was test driven built using JavaScript, HTML and CSS. <br> [View Rock Paper Scissors on Heroku] |
+| Fhellow is a social networking site for freelancers. This was my final Makers Academy project completed with three other team members. <br> [View Fhellow on Heroku] | Designed to replicate the website Instagram, this project demonstrates my learning of Ruby on Rails, Bootstrap, Devise and Paperclip. <br> [View Instagramme on Heroku] | Created as make an online version of the game Rock, Paper, Scissors, Lizard, Spock, this app was test driven built using JavaScript, HTML and CSS. <br> [View Rock Paper Scissors on Heroku] |
 
 
 Web development
@@ -76,7 +76,7 @@ Education
 #####Master of Business Administration (MBA)
 ######Part time, September 2007 to August 2010  |  Melbourne, Australia
 - Highest grade commendation for Brand Management
-- Semi-finalist in Melbourne University Entrepreneurs Challenge for Service-Wide website, a review site for service providers and tradespeople
+- Semi-finalist in Melbourne University Entrepreneurs Challenge, where I pitched Service-Wide, a website for reviewing tradespeople and service providers
 
 ####[Victoria University]
 #####Bachelor of Law (LLB)(Honours) / Bachelor of Business (e-commerce)
@@ -95,18 +95,28 @@ Experience
 ####[Coles]
 #####Strategy Manager
 ######May 2010 to April 2013  |  Melbourne, Australia
+Working at one of Australia's largest retailers, Michelle worked in Corporate Strategy during a major turnaround period.  Michelle supported many parts of the business delivering project management, developing business cases and performing financial analysis.  
 
 ####[Deloitte]
 #####Strategy & Operations Management Consultant
 ######October 2006 to April 2010  |  Melbourne, Australia
+Working across many industries, Michelle advised large clients on strategic and operational issues such as:
+- Developing business cases for major technology investments 
+- Integrating acquired businesses
+- Transforming business processes
+- Performing strategic pricing analysis
+- Prioritising a portfolio of IT project
+Michelle was also active in developing internal talent, facilitating pricing training and running monthly internal knowledge sharing sessions.  
 
 ####[Deloitte]
 #####Corporate Tax Analyst
 ######August 2005 to September 2006  |  Melbourne, Australia
+Working at one of the 'big four' professional services firms, Michelle developed Australian corporate tax advice and prepared income tax returns for international blue chip clients.  
 
 ####[ASX Perpetual Registrars]
 #####Investor Services Representative
 ######January 2004 to June 2005  |  Melbourne, Australia
+Working for one of Australia's leading share registries (now known as Link Market Services), Michelle liaised with financial and legal professionals and shareholders about shareholder information and corporate issues.  
 
 
 More information
@@ -119,7 +129,7 @@ If you would like to find out more, please feel free to contact me on the follow
 - [Github]
 
 #####Work eligibility
-I am a dual passport holder, being British and Australian, and I am currently seeking work in London.
+I am a dual passport holder, being British and Australian, and I'm currently seeking work in London.
 
 
 
