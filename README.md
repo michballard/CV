@@ -8,7 +8,7 @@ Recent projects
 
 | [Fhellow] | [Instagramme] | [Rock Paper Scissors] |
 |:--------------|:--------------|:--------------|
-| Fhellow is a social networking site for freelancers. This was my final Makers Academy project completed with three other team members. <br> [View Fhellow on Heroku] | Designed to replicate the website Instagram, this project demonstrates my learning of Ruby on Rails, Bootstrap, Devise and Paperclip. <br> [View Instagramme on Heroku] | Created as make an online version of the game Rock, Paper, Scissors, Lizard, Spock, this app was test driven built using JavaScript, HTML and CSS. <br> [View Rock Paper Scissors on Heroku] |
+| Fhellow is a social networking site for freelancers. This was my final Makers Academy project completed with three other team members. <br><br> [View Fhellow on Heroku] | Designed to replicate the website Instagram, this project demonstrates my learning of Ruby on Rails, Bootstrap, Devise and Paperclip. <br><br> [View Instagramme on Heroku] | Created as make an online version of the game Rock, Paper, Scissors, Lizard, Spock, this app was test driven built using JavaScript, HTML and CSS. <br><br> [View Rock Paper Scissors on Heroku] |
 
 
 Web development
@@ -16,7 +16,7 @@ Web development
 
 ####[Makers Academy]
 #####Web Development Intensive Course
-######Full time, August to October 2014  |  London, United Kingdom
+######Full time, August to October 2014 &nbsp; | &nbsp; London, United Kingdom
 - Highly selective 12 week bootcamp style course
 - Full stack web development
 - Focus on agile practices, especially test driven development (TDD), pair programming and teamwork
@@ -69,18 +69,18 @@ Education
 
 ####[Duke University]
 #####Master of Business Administration, International Exchange Program 
-<pre>######Full time, September to December 2010  |  Durham, North Carolina, United States</pre>
+######Full time, September to December 2010 &nbsp; | &nbsp; Durham, North Carolina, United States
 - Winner of Best Buy marketing strategy case competition
 
 ####[Melbourne Business School]
 #####Master of Business Administration (MBA)
-<pre>######Part time, September 2007 to August 2010  |  Melbourne, Australia</pre>
+######Part time, September 2007 to August 2010 &nbsp; | &nbsp; Melbourne, Australia
 - Highest grade commendation for Brand Management
 - Semi-finalist in Melbourne University Entrepreneurs Challenge, where I pitched Service-Wide, a website for reviewing tradespeople and service providers
 
 ####[Victoria University]
 #####Bachelor of Law (LLB)(Honours) / Bachelor of Business (e-commerce)
-<pre>######Full time, January 2001 to June 2005  |  Melbourne, Australia</pre>
+######Full time, January 2001 to June 2005 &nbsp; | &nbsp; Melbourne, Australia
 - Graduated with two degrees
 - Law degree honours dissertation: "Current legal status of MP3 music downloads"
 
@@ -90,7 +90,7 @@ Experience
 
 ####[Sainsbury’s]
 #####Online Operations Development Manager
-<pre>######September 2013 to March 2014  |  London, United Kingdom</pre>
+######September 2013 to March 2014 &nbsp; | &nbsp; London, United Kingdom
 Michelle worked on the set-up, build and integration of a new transactional fashion website. Michelle's responsibilities included:
 - Integrating third party partners into the website, including web analytics, ratings & reviews and recommendations engines
 - Establishing and coordinating product related data required for the website
@@ -98,7 +98,7 @@ Michelle worked on the set-up, build and integration of a new transactional fash
 
 ####[Coles]
 #####Strategy Manager
-<pre>######May 2010 to April 2013  |  Melbourne, Australia</pre>
+######May 2010 to April 2013 &nbsp; | &nbsp; Melbourne, Australia
 Working at one of Australia's largest retailers, Michelle worked in Corporate Strategy during a major turnaround period.  Michelle supported many parts of the business delivering project management, developing business cases and performing financial analysis.  Her achievements included:
 - Developing the business case for improving the flybuys loyalty program
 - Designing, coordinating and tracking trials of the improved loyalty offer.  This involved managing email campaigns and online communications to engage customers in the trial
@@ -108,7 +108,7 @@ Working at one of Australia's largest retailers, Michelle worked in Corporate St
 
 ####[Deloitte]
 #####Strategy & Operations Management Consultant
-<pre>######October 2006 to April 2010  |  Melbourne, Australia</pre>
+######October 2006 to April 2010 &nbsp; | &nbsp; Melbourne, Australia
 Continuing to work for one of the 'big four' professional services firms, Michelle worked across many industries advising large clients on strategic and operational issues such as:
 - Business cases for major technology investments 
 - Business integrations
@@ -120,12 +120,12 @@ Michelle was also active in developing internal talent, facilitating pricing tra
 
 ####[Deloitte]
 #####Corporate Tax Analyst
-<pre>######August 2005 to September 2006  |  Melbourne, Australia</pre>
+######August 2005 to September 2006 &nbsp; | &nbsp; Melbourne, Australia
 Working for one of the 'big four' professional services firms, Michelle developed Australian corporate tax advice and prepared income tax returns for international blue chip clients.  
 
 ####[ASX Perpetual Registrars]
 #####Investor Services Representative
-<pre>######January 2004 to June 2005  |  Melbourne, Australia</pre>
+######January 2004 to June 2005 &nbsp; | &nbsp; Melbourne, Australia
 Working for one of Australia's leading share registries (now known as Link Market Services), Michelle liaised with shareholders and financial & legal professionals about shareholder information and corporate issues.  
 
 
