@@ -69,20 +69,20 @@ Education
 
 ####[Duke University]
 #####Master of Business Administration, International Exchange Program 
-######Full time, September to December 2010  |  Durham, North Carolina, United States
+<pre>######Full time, September to December 2010  |  Durham, North Carolina, United States</pre>
 - Winner of Best Buy marketing strategy case competition
 
 ####[Melbourne Business School]
 #####Master of Business Administration (MBA)
-######Part time, September 2007 to August 2010  |  Melbourne, Australia
+<pre>######Part time, September 2007 to August 2010  |  Melbourne, Australia</pre>
 - Highest grade commendation for Brand Management
 - Semi-finalist in Melbourne University Entrepreneurs Challenge, where I pitched Service-Wide, a website for reviewing tradespeople and service providers
 
 ####[Victoria University]
 #####Bachelor of Law (LLB)(Honours) / Bachelor of Business (e-commerce)
-######Full time, January 2001 to June 2005  |  Melbourne, Australia
+<pre>######Full time, January 2001 to June 2005  |  Melbourne, Australia</pre>
 - Graduated with two degrees
-- Law degree honours dissertation: "The current legal status of MP3 music downloads"
+- Law degree honours dissertation: "Current legal status of MP3 music downloads"
 
 
 Experience
@@ -90,39 +90,49 @@ Experience
 
 ####[Sainsbury’s]
 #####Online Operations Development Manager
-######September 2013 to March 2014  |  London, United Kingdom
+<pre>######September 2013 to March 2014  |  London, United Kingdom</pre>
+Michelle worked on the set-up, build and integration of a new transactional fashion website. Michelle's responsibilities included:
+- Integrating third party partners into the website, including web analytics, ratings & reviews and recommendations engines
+- Establishing and coordinating product related data required for the website
+- Developing the customer acquisition strategy for website roll-out
 
 ####[Coles]
 #####Strategy Manager
-######May 2010 to April 2013  |  Melbourne, Australia
-Working at one of Australia's largest retailers, Michelle worked in Corporate Strategy during a major turnaround period.  Michelle supported many parts of the business delivering project management, developing business cases and performing financial analysis.  
+<pre>######May 2010 to April 2013  |  Melbourne, Australia</pre>
+Working at one of Australia's largest retailers, Michelle worked in Corporate Strategy during a major turnaround period.  Michelle supported many parts of the business delivering project management, developing business cases and performing financial analysis.  Her achievements included:
+- Developing the business case for improving the flybuys loyalty program
+- Designing, coordinating and tracking trials of the improved loyalty offer.  This involved managing email campaigns and online communications to engage customers in the trial
+- Developing the online strategy for Coles' liquor businesses
+- Developing the methodology and processes for validating carbon price increases.  This included developing an online carbon price checking tool and deploying this to relevant parts of the business
+- Proving the effectiveness of self check out machines  
 
 ####[Deloitte]
 #####Strategy & Operations Management Consultant
-######October 2006 to April 2010  |  Melbourne, Australia
-Working across many industries, Michelle advised large clients on strategic and operational issues such as:
-- Developing business cases for major technology investments 
-- Integrating acquired businesses
-- Transforming business processes
-- Performing strategic pricing analysis
-- Prioritising a portfolio of IT project
+<pre>######October 2006 to April 2010  |  Melbourne, Australia</pre>
+Continuing to work for one of the 'big four' professional services firms, Michelle worked across many industries advising large clients on strategic and operational issues such as:
+- Business cases for major technology investments 
+- Business integrations
+- Business process transformations
+- Strategic pricing reviews
+- Prioritisation of IT projects
+
 Michelle was also active in developing internal talent, facilitating pricing training and running monthly internal knowledge sharing sessions.  
 
 ####[Deloitte]
 #####Corporate Tax Analyst
-######August 2005 to September 2006  |  Melbourne, Australia
-Working at one of the 'big four' professional services firms, Michelle developed Australian corporate tax advice and prepared income tax returns for international blue chip clients.  
+<pre>######August 2005 to September 2006  |  Melbourne, Australia</pre>
+Working for one of the 'big four' professional services firms, Michelle developed Australian corporate tax advice and prepared income tax returns for international blue chip clients.  
 
 ####[ASX Perpetual Registrars]
 #####Investor Services Representative
-######January 2004 to June 2005  |  Melbourne, Australia
-Working for one of Australia's leading share registries (now known as Link Market Services), Michelle liaised with financial and legal professionals and shareholders about shareholder information and corporate issues.  
+<pre>######January 2004 to June 2005  |  Melbourne, Australia</pre>
+Working for one of Australia's leading share registries (now known as Link Market Services), Michelle liaised with shareholders and financial & legal professionals about shareholder information and corporate issues.  
 
 
 More information
 ----------------
 #####Contact details
-If you would like to find out more, please feel free to contact me on the following:  
+If you would like to find out more, please feel free to contact me by the following:  
 - Phone + 44 (0)74 4992 8801
 - Email [michballard@gmail.com]
 - [LinkedIn]
