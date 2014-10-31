@@ -8,7 +8,7 @@ Recent projects
 
 | [Fhellow] | [Instagramme] | [Rock Paper Scissors] |
 |:--------------|:--------------|:--------------|
-| Fhellow is a social networking site for freelancers. This was my final Makers Academy project completed with three other team members. <br><br> [View Fhellow on Heroku] | Designed to replicate the website Instagram, this project demonstrates my learning of Ruby on Rails, Bootstrap, Devise and Paperclip. <br><br> [View Instagramme on Heroku] | Created as make an online version of the game Rock, Paper, Scissors, Lizard, Spock, this app was test driven built using JavaScript, HTML and CSS. <br><br> [View Rock Paper Scissors on Heroku] |
+| Fhellow is a social networking site for freelancers. This was my final Makers Academy project completed with three other team members. <br> [View Fhellow on Heroku] | Designed to replicate the website Instagram, this project demonstrates my learning of Ruby on Rails, Bootstrap, Devise and Paperclip. <br> [View Instagramme on Heroku] | Created as make an online version of the game Rock, Paper, Scissors, Lizard, Spock, this app was test driven built using JavaScript, HTML and CSS. <br> [View Rock Paper Scissors on Heroku] |
 
 
 Web development
