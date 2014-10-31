@@ -109,7 +109,7 @@ Experience
 More information
 ----------------
 #####Contact details
-If you would like to find out more about me, please don’t hesitate to contact me on the following:  
+If you would like to find out more, feel free to contact me on the following:  
 - Phone + 44 (0)74 4992 8801
 - Email [michballard@gmail.com]
 - [LinkedIn]
