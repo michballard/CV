@@ -1,7 +1,7 @@
 Michelle (Ballard) Stephens
 ===========================
 
-Makers Academy graduate seeking employment as a Junior Web Developer.  
+I'm a Makers Academy graduate seeking employment as a Junior Web Developer.  I'm seeking a great company where I can extend my web development skills and utilise my background in retail, strategy and consulting.
 
 Recent projects
 ---------------
@@ -16,7 +16,7 @@ Web development
 
 ####[Makers Academy]
 #####Web Development Intensive Course
-######Full time from August to October 2014  |  London, United Kingdom
+######Full time, August to October 2014  |  London, United Kingdom
 - Highly selective 12 week bootcamp style course
 - Full stack web development
 - Focus on agile practices, especially test driven development (TDD), pair programming and teamwork
@@ -27,12 +27,12 @@ Web development
 ######Back-end
 - [x] Ruby
 - [x] Rails 
-- [x] Sinatra
-- [x] PostgreSQL databases
+- [x] Sinatra 
+- [x] PostgreSQL database management
 - [x] DataMapper object relational mapper
-- [x] Bcrypt encrypted authentication
+- [x] Bcrypt encryption
 - [x] Devise user authorisation
-- [x] API integration, including Twilio, GoogleMaps, Stripe, Paperclip and Mailgun
+- [x] API integration, including Twilio, GoogleMaps, Stripe and Paperclip
 
 ######Front-end
 - [x] HTML5
@@ -58,7 +58,7 @@ Web development
 - [x] Test driven development
 - [x] Object oriented programming
 - [x] Software design 
-- [x] Agile and lean princ
+- [x] Agile and lean principles
 - [x] Pair programming
 - [x] Teamwork
 - [x] Project based work
@@ -69,17 +69,20 @@ Education
 
 ####[Duke University]
 #####Master of Business Administration, International Exchange Program 
-######September to December 2010  |  Durham, North Carolina, United States
+######Full time, September to December 2010  |  Durham, North Carolina, United States
+- Winner of Best Buy marketing strategy case competition
 
 ####[Melbourne Business School]
 #####Master of Business Administration (MBA)
-######Part time from September 2007 to August 2010  |  Melbourne, Australia
+######Part time, September 2007 to August 2010  |  Melbourne, Australia
+- Highest grade commendation for Brand Management
+- Semi-finalist in Melbourne University Entrepreneurs Challenge for Service-Wide website, a review site for service providers and tradespeople
 
 ####[Victoria University]
 #####Bachelor of Law (LLB)(Honours) / Bachelor of Business (e-commerce)
-######Full time from January 2001 to June 2005  |  Melbourne, Australia
+######Full time, January 2001 to June 2005  |  Melbourne, Australia
 - Graduated with two degrees
-- Law degree honours dissertation: "The legal status of MP3 music downloads"
+- Law degree honours dissertation: "The current legal status of MP3 music downloads"
 
 
 Experience
@@ -109,7 +112,7 @@ Experience
 More information
 ----------------
 #####Contact details
-If you would like to find out more, feel free to contact me on the following:  
+If you would like to find out more, please feel free to contact me on the following:  
 - Phone + 44 (0)74 4992 8801
 - Email [michballard@gmail.com]
 - [LinkedIn]
