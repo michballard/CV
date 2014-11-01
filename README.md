@@ -1,4 +1,4 @@
-Michelle (Ballard) Stephens
+Michelle Ballard-Stephens
 ===========================
 
 I'm a Makers Academy graduate seeking employment as a Junior Web Developer.  I'm seeking a great company where I can extend my web development skills and utilise my background in retail, strategy and consulting.
@@ -136,7 +136,7 @@ More information
 ----------------
 #####Contact details
 If you would like to find out more, please feel free to contact me or view more by the following:  
-- Phone + 44 74 4992 8801
+- Phone + 44 7449 928801
 - Email [michballard@gmail.com]
 - [LinkedIn]
 - [Github]
