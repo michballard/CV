@@ -14,6 +14,8 @@ Recent projects
 Web development
 ---------------
 
+I have wanted to learn to code for a long time, as I believe web apps can add much value to organisations.  Once I found out that I could learn to code in an intensive environment I seized this opportunity.  Over the past three months I have definitely enjoyed learning to code and I look forward to creating beautiful web apps in the future.
+
 ####[Makers Academy]
 #####Web Development Intensive Course
 ######Full time, August to October 2014 &nbsp; | &nbsp; London, United Kingdom
@@ -21,6 +23,7 @@ Web development
 - Full stack web development
 - Focus on agile practices, especially test driven development (TDD), pair programming and teamwork
 - Final project, [Fhellow] a social network for freelancers, developed over 10 days using Ruby on Rails 
+- Built portfolio of projects, which are found on [Github]
 
 #####Skills learned
 
@@ -132,8 +135,8 @@ Working for one of Australia's leading share registries (now known as Link Marke
 More information
 ----------------
 #####Contact details
-If you would like to find out more, please feel free to contact me by the following:  
-- Phone + 44 (0)74 4992 8801
+If you would like to find out more, please feel free to contact me or view more by the following:  
+- Phone + 44 74 4992 8801
 - Email [michballard@gmail.com]
 - [LinkedIn]
 - [Github]
