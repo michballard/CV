@@ -6,9 +6,9 @@ I'm a Makers Academy graduate seeking employment as a Junior Web Developer.  I'm
 Recent projects
 ---------------
 
-| [Fhellow] | [Instagramme] | [Rock Paper Scissors] |
+| [Fhellow] | [Chitter] | [Rock Paper Scissors] |
 |:--------------|:--------------|:--------------|
-| Fhellow is a social networking site for freelancers. This was my final Makers Academy project completed with three other team members. <br> [View Fhellow on Heroku] | Designed to replicate the website Instagram, this project demonstrates my learning of Ruby on Rails, Bootstrap, Devise and Paperclip. <br> [View Instagramme on Heroku] | Created as make an online version of the game Rock, Paper, Scissors, Lizard, Spock, this app was test driven built using JavaScript, HTML and CSS. <br> [View Rock Paper Scissors on Heroku] |
+| Fhellow is a social networking site for freelancers. This was my final Makers Academy project completed with three other team members. <br> Technologies: Ruby on Rails, Bootstrap, GMaps, Javascript, jQuery  <br> [View Fhellow] | In this project I created a Twitter clone that allows users to post messages to a public stream <br> Technologies: Ruby, Sinatra, Bcrypt, Postgres, HTML, CSS <br> [View Chitter] | Created as make an online version of the game Rock, Paper, Scissors, Lizard, Spock <br> Technologies: Ruby, Sinatra, JavaScript, jQuery, HTML, CSS <br> [View Rock Paper Scissors] |
 
 
 Web development
@@ -150,9 +150,9 @@ I am a dual passport holder, being British and Australian, and I'm currently see
 [Instagramme]: https://github.com/michballard/instagram-copy
 [Rock Paper Scissors]: https://github.com/michballard/rock-paper-scissors-lizard-spock
 
-[View Fhellow on Heroku]: http://fhellow.herokuapp.com/
-[View Instagramme on Heroku]: https://instagramme.herokuapp.com/
-[View Rock Paper Scissors on Heroku]: http://shrouded-peak-9940.herokuapp.com/
+[View Fhellow]: http://fhellow.herokuapp.com/
+[View Chitter]: https://chittera.herokuapp.com/
+[View Rock Paper Scissors]: http://shrouded-peak-9940.herokuapp.com/
 
 [Makers Academy]: http://www.makersacademy.com/
 [Melbourne Business School]: http://mbs.edu/
