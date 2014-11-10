@@ -153,7 +153,7 @@ I am a dual passport holder, being British and Australian, and I'm currently see
 
 [View Fhellow]: http://fhellow.herokuapp.com/
 [View Chitter]: https://chittera.herokuapp.com/
-[View Rock Paper Scissors]: http://shrouded-peak-9940.herokuapp.com/
+[View Rock Paper Scissors]: https://rockscissorsspock.herokuapp.com/
 
 [Makers Academy]: http://www.makersacademy.com/
 [Melbourne Business School]: http://mbs.edu/
