@@ -8,7 +8,7 @@ Recent projects
 
 | [Fhellow] | [Chitter] | [Rock Paper Scissors] |
 |:--------------|:--------------|:--------------|
-| Fhellow is a social networking site for freelancers. This was my final Makers Academy project completed with three other team members. <br> Technologies: Ruby on Rails, Bootstrap, GMaps, Javascript, jQuery  <br> [View Fhellow] | In this project I created a Twitter clone that allows users to post messages to a public stream <br> Technologies: Ruby, Sinatra, Bcrypt, Postgres, HTML, CSS <br> [View Chitter] | Created as make an online version of the game Rock, Paper, Scissors, Lizard, Spock <br> Technologies: Ruby, Sinatra, JavaScript, jQuery, HTML, CSS <br> [View Rock Paper Scissors] |
+| A social networking site for freelancers. My final Makers Academy project completed with three other team members. <br> Technologies: Ruby on Rails, Bootstrap, GMaps, Javascript, jQuery  <br> [View Fhellow] | In this project I created a Twitter clone that allows users to post messages to a public stream <br> Technologies: Ruby, Sinatra, Bcrypt, Postgres, HTML, CSS <br> [View Chitter] | In this project I created a web app version of the game Rock, Paper, Scissors, Lizard, Spock <br> Technologies: Ruby, Sinatra, JavaScript, jQuery, HTML, CSS <br> [View Rock Paper Scissors] |
 
 
 Web development
@@ -147,6 +147,7 @@ I am a dual passport holder, being British and Australian, and I'm currently see
 
 
 [Fhellow]: https://github.com/michballard/fhellow
+[Chitter]: https://github.com/michballard/chitter
 [Instagramme]: https://github.com/michballard/instagram-copy
 [Rock Paper Scissors]: https://github.com/michballard/rock-paper-scissors-lizard-spock
 
