@@ -1,7 +1,7 @@
 Michelle Ballard-Stephens
 ===========================
 
-I'm a Makers Academy graduate seeking employment as a Junior Web Developer.  I'm seeking a great company where I can extend my web development skills and utilise my background in retail, strategy and consulting.
+I am an experienced strategy consultant who recently gained web development skills and am now seeking a web development role.  I'm seeking a great company where I can extend my web development skills and utilise my background in retail, strategy and consulting.
 
 Recent projects
 ---------------
@@ -14,7 +14,7 @@ Recent projects
 Web development
 ---------------
 
-I have wanted to learn to code for a long time, as I believe web apps can add much value to organisations.  Once I found out that I could learn to code in an intensive environment I seized this opportunity.  Over the past three months I have definitely enjoyed learning to code and I look forward to creating beautiful web apps in the future.
+I have wanted to learn to code for a long time, as I believe web apps can add much value to organisations.  Once I found out that I could learn to code in an intensive environment I seized this opportunity.  Over three months studying as Makers Academy I have definitely enjoyed learning to code and I look forward to creating beautiful web apps in the future.
 
 ####[Makers Academy]
 #####Web Development Intensive Course
@@ -91,6 +91,11 @@ Education
 Experience
 ----------
 
+####[Katana London]
+#####Web Developer
+######November 2014 to May 2015 &nbsp; | &nbsp; London, United Kingdom
+Michelle worked as a full stack web developer.  In this role she published several sites, developing them from start to finish, including two art sites and a boutique villa hotel site.  To build these sites she used the following tools: PHP, Laravel, October CMS, HTML, CSS, Javascript, jQuery, Git, SourceTree, MySQL, CyberDuck, Nginx.  Through this role she has confirmed that she thoroughly enjoys working as web developer, and this experience has further helped with growing her insights about how to bring web ideas to life.  
+
 ####[Sainsbury’s]
 #####Online Operations Development Manager
 ######September 2013 to March 2014 &nbsp; | &nbsp; London, United Kingdom
@@ -136,13 +141,12 @@ More information
 ----------------
 #####Contact details
 If you would like to find out more, please feel free to contact me or view more by the following:  
-- Phone + 44 7449 928801
 - Email [michballard@gmail.com]
 - [LinkedIn]
 - [Github]
 
 #####Work eligibility
-I am a dual passport holder, being British and Australian, and I'm currently seeking work in London.
+I am a dual passport holder, being British and Australian.
 
 
 
@@ -160,6 +164,7 @@ I am a dual passport holder, being British and Australian, and I'm currently see
 [Duke University]: http://duke.edu/
 [Victoria University]: http://www.vu.edu.au/
 
+[Katana London]: http://katanalondon.com/
 [Sainsbury’s]: http://www.sainsburys.co.uk/
 [Coles]: http://www.coles.com.au/
 [Deloitte]: http://www2.deloitte.com/au/en.html
